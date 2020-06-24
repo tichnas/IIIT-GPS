@@ -1,5 +1,5 @@
 # IIIT-GPS
-Checkout the website by [clicking here](https://web.iiit.ac.in/~sanchit.arora/IIIT-GPS/html/index.html "clicking here").
+Checkout the website by [clicking here](https://tichnas.github.io/IIIT-GPS "clicking here").
 
 ### Problem
 - The students waste their vacations because they don't know from where to study things that will help them in the next semester (or near future)
